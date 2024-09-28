@@ -1,8 +1,11 @@
 # ADC-Data-Monitoring
 
 This project is designed for monitoring ADC (Analog-to-Digital Converter) data on a Graphical User Interface (GUI).
+The project uses UDP to send data between the client and server, applying noise reduction through filtering techniques.
 
 Ensure your CSV files contain the necessary data, or that you have a process running that writes data to the CSV files located in the `Data` folder.
+
+## UDP Protocol
 
 To install the necessary modules and libraries, run the following command:
 
