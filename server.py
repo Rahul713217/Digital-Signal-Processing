@@ -152,7 +152,7 @@ class MainWindow(QMainWindow):
         # Create the animation
         self.anim = FuncAnimation(self.fig, self.update_animation, init_func=self.init_animation, frames=self.frames, interval=1000/self.fps, blit=True)
         # self.bind_button.clicked.disconnect(self.start_communication)
-
+        
 
     def stop_app(self):
         self.running = False
@@ -161,7 +161,7 @@ class MainWindow(QMainWindow):
     def find_peaks_in_row(self, row):
         peak_locations, peak_properties = find_peaks(row, height=self.threshold, 
                                             distance=self.distance, 
-                                            prominence=self.prominence)  # peak_locations -> array : indices of the local maxima
+                                            prominence=self.prominence)  # peak_locations -> array : indices of the local maximas
         return peak_locations, peak_properties
 
     def init_animation(self):

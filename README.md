@@ -8,6 +8,8 @@ To install the necessary modules and libraries, run the following command:
 
 ## `pip3 install pyqt5 matplotlib scipy`
 
+You need to modify `IP_ADDRESS` as per your need. Here I used localhost, same device will send the data and receive it.
+
 In the project directory, open two separate terminal.
 
 You'll need to run both the server and the client in separate terminals.
@@ -24,7 +26,7 @@ In the second terminal, start the client:
 
 ## `python3 client.py`
 
-After this press the `Run` button on the GUI for data observation.
+After this, press the `Run` button on the GUI for data observation. The `Run` button will start the animation.
 
 Feel free to modify any sections further to suit your project's specifics!
 
