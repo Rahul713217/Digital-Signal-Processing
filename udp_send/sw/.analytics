@@ -1,0 +1,71 @@
+timestamp=[2024-09-05 09:59:25], mode=WORKBENCH_START, duration=0:00:06.627, duration_ms=6627, data={}
+timestamp=[2024-09-05 09:59:25], mode=WORKBENCH_UI_INIT, duration=0:00:00.337, duration_ms=337, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-09-05 09:59:27], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.065, duration_ms=1065, data={}
+timestamp=[2024-09-05 10:01:23], mode=PLATFORM_CREATION, duration=0:00:52.581, duration_ms=52581, data={platform_source=dsa, os=standalone, processor=psu_cortexa53, platform=null}
+timestamp=[2024-09-05 10:16:38], mode=PLATFORM_GENERATION, duration=0:02:49.356, duration_ms=169356, data={name=eth_test}
+timestamp=[2024-09-05 10:17:39], mode=APP_CREATION, duration=0:00:10.928, duration_ms=10928, data={name=app_testEth, project_type=sdk, os=standalone, processor=cortex-a53, runtime=C/C++, platform=eth_test, application_type=application}
+timestamp=[2024-09-05 16:29:02], mode=BUILD, duration=0:00:05.481, duration_ms=5481, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-05 16:31:56], mode=BUILD, duration=0:00:01.262, duration_ms=1262, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-05 16:37:08], mode=BUILD, duration=0:00:01.125, duration_ms=1125, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-06 08:52:07], mode=WORKBENCH_START, duration=0:00:26.091, duration_ms=26091, data={}
+timestamp=[2024-09-06 08:52:09], mode=WORKBENCH_UI_INIT, duration=0:00:02.400, duration_ms=2400, data={editors_count=14, platform_editors_count=9, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=RemoteSystemsTempFiles,app_testEth,app_testEth_system,eth_test}
+timestamp=[2024-09-06 08:52:11], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.982, duration_ms=1982, data={}
+timestamp=[2024-09-06 08:56:36], mode=BUILD, duration=0:00:04.286, duration_ms=4286, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-06 11:22:57], mode=BUILD, duration=0:00:03.603, duration_ms=3603, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-09 09:14:37], mode=WORKBENCH_START, duration=0:00:12.654, duration_ms=12654, data={}
+timestamp=[2024-09-09 09:14:38], mode=WORKBENCH_UI_INIT, duration=0:00:00.987, duration_ms=987, data={editors_count=10, platform_editors_count=6, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,app_testEth,app_testEth_system,eth_test}
+timestamp=[2024-09-09 09:14:39], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.840, duration_ms=840, data={}
+timestamp=[2024-09-09 16:11:57], mode=BUILD, duration=0:00:04.744, duration_ms=4744, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-09 16:12:14], mode=BUILD, duration=0:00:16.198, duration_ms=16198, data={name=app_testEth_system, configuration=Debug, clean_build=false}
+timestamp=[2024-09-09 16:20:49], mode=APP_CREATION, duration=0:00:03.738, duration_ms=3738, data={name=hello_world, project_type=sdk, os=standalone, processor=cortex-a53, runtime=C/C++, platform=eth_test, application_type=application}
+timestamp=[2024-09-09 16:21:15], mode=BUILD, duration=0:00:01.284, duration_ms=1284, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-09-09 16:21:22], mode=BUILD, duration=0:00:06.122, duration_ms=6122, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-09-09 16:25:50], mode=BUILD, duration=0:00:00.142, duration_ms=142, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 08:43:09], mode=WORKBENCH_START, duration=0:00:12.880, duration_ms=12880, data={}
+timestamp=[2024-09-10 08:43:10], mode=WORKBENCH_UI_INIT, duration=0:00:00.904, duration_ms=904, data={editors_count=13, platform_editors_count=6, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,app_testEth,app_testEth_system,eth_test,hello_world,hello_world_system}
+timestamp=[2024-09-10 08:43:11], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.901, duration_ms=901, data={}
+timestamp=[2024-09-10 09:10:30], mode=WORKBENCH_START, duration=0:00:07.583, duration_ms=7583, data={}
+timestamp=[2024-09-10 09:10:31], mode=WORKBENCH_UI_INIT, duration=0:00:00.852, duration_ms=852, data={editors_count=13, platform_editors_count=6, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,app_testEth,app_testEth_system,eth_test,hello_world,hello_world_system}
+timestamp=[2024-09-10 09:10:32], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.548, duration_ms=548, data={}
+timestamp=[2024-09-10 09:13:46], mode=PLATFORM_GENERATION, duration=0:01:23.236, duration_ms=83236, data={name=eth_test}
+timestamp=[2024-09-10 09:14:00], mode=BUILD, duration=0:00:02.576, duration_ms=2576, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 09:14:08], mode=BUILD, duration=0:00:07.389, duration_ms=7389, data={name=app_testEth_system, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 09:14:09], mode=BUILD, duration=0:00:00.668, duration_ms=668, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 09:15:46], mode=BUILD, duration=0:00:00.908, duration_ms=908, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 09:15:58], mode=BUILD, duration=0:00:00.127, duration_ms=127, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 09:16:15], mode=BUILD, duration=0:00:00.928, duration_ms=928, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 09:37:23], mode=BUILD, duration=0:00:01.001, duration_ms=1001, data={name=hello_world, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 09:37:30], mode=BUILD, duration=0:00:06.150, duration_ms=6150, data={name=hello_world_system, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 09:47:10], mode=BUILD, duration=0:00:01.166, duration_ms=1166, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 09:53:06], mode=BUILD, duration=0:00:00.162, duration_ms=162, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 09:53:30], mode=BUILD, duration=0:00:01.002, duration_ms=1002, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 10:41:36], mode=BUILD, duration=0:00:00.717, duration_ms=717, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 10:56:33], mode=BUILD, duration=0:00:00.774, duration_ms=774, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 10:57:24], mode=BUILD, duration=0:00:00.140, duration_ms=140, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 11:07:07], mode=BUILD, duration=0:00:00.161, duration_ms=161, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 11:14:00], mode=BUILD, duration=0:00:00.785, duration_ms=785, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 11:15:27], mode=BUILD, duration=0:00:00.151, duration_ms=151, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 11:23:55], mode=BUILD, duration=0:00:01.007, duration_ms=1007, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 11:25:47], mode=BUILD, duration=0:00:00.986, duration_ms=986, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 11:29:43], mode=BUILD, duration=0:00:01.003, duration_ms=1003, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 11:36:21], mode=BUILD, duration=0:00:01.090, duration_ms=1090, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 11:53:37], mode=BUILD, duration=0:00:01.336, duration_ms=1336, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 11:57:20], mode=BUILD, duration=0:00:01.064, duration_ms=1064, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 12:00:53], mode=BUILD, duration=0:00:01.130, duration_ms=1130, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 12:01:09], mode=BUILD, duration=0:00:00.232, duration_ms=232, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-10 12:05:21], mode=BUILD, duration=0:00:01.088, duration_ms=1088, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-09-11 11:15:56], mode=WORKBENCH_START, duration=0:00:08.838, duration_ms=8838, data={}
+timestamp=[2024-09-11 11:15:57], mode=WORKBENCH_UI_INIT, duration=0:00:00.948, duration_ms=948, data={editors_count=16, platform_editors_count=9, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,app_testEth,app_testEth_system,eth_test,hello_world,hello_world_system}
+timestamp=[2024-09-11 11:15:58], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.483, duration_ms=483, data={}
+timestamp=[2024-09-12 08:59:32], mode=WORKBENCH_START, duration=0:00:17.432, duration_ms=17432, data={}
+timestamp=[2024-09-12 08:59:33], mode=WORKBENCH_UI_INIT, duration=0:00:00.860, duration_ms=860, data={editors_count=16, platform_editors_count=9, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,app_testEth,app_testEth_system,eth_test,hello_world,hello_world_system}
+timestamp=[2024-09-12 08:59:34], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.798, duration_ms=798, data={}
+timestamp=[2024-09-30 10:12:52], mode=WORKBENCH_START, duration=0:00:10.167, duration_ms=10167, data={}
+timestamp=[2024-09-30 10:12:53], mode=WORKBENCH_UI_INIT, duration=0:00:01.026, duration_ms=1026, data={editors_count=16, platform_editors_count=9, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,app_testEth,app_testEth_system,eth_test,hello_world,hello_world_system}
+timestamp=[2024-09-30 10:12:53], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.613, duration_ms=613, data={}
+timestamp=[2024-10-02 11:09:55], mode=WORKBENCH_START, duration=0:00:15.710, duration_ms=15710, data={}
+timestamp=[2024-10-02 11:09:57], mode=WORKBENCH_UI_INIT, duration=0:00:01.565, duration_ms=1565, data={editors_count=16, platform_editors_count=9, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,app_testEth,app_testEth_system,eth_test,hello_world,hello_world_system}
+timestamp=[2024-10-02 11:09:57], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.880, duration_ms=880, data={}
+timestamp=[2024-10-02 11:23:41], mode=PLATFORM_GENERATION, duration=0:01:28.536, duration_ms=88536, data={name=eth_test}
+timestamp=[2024-10-02 11:23:55], mode=BUILD, duration=0:00:04.156, duration_ms=4156, data={name=app_testEth, configuration=Debug, clean_build=false}
+timestamp=[2024-10-02 11:41:23], mode=BUILD, duration=0:00:00.215, duration_ms=215, data={name=app_testEth, configuration=Debug, clean_build=false}

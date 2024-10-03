@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="packet_id"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="packet_id"/>
+			<item value="Saikat"/>
+			<item value="saikat"/>
+			<item value="array_data"/>
+			<item value="udp_conn_report"/>
+			<item value="map"/>
+			<item value="XPAR_XEMACPS_3_BASEADDR"/>
+			<item value="XPAR_XEMACPS_2_BASEADDR"/>
+			<item value="XPAR_XEMACPS_0_BASEADDR"/>
+			<item value="UDP_SERVER_IP_ADDRESS"/>
+			<item value="201.65.32"/>
+			<item value="IP"/>
+			<item value="payload"/>
+			<item value="send_buf"/>
+			<item value="kLabel"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1246"/>
+		<item key="DIALOG_Y_ORIGIN" value="143"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
